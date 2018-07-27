@@ -1,0 +1,69 @@
+header{
+    
+}
+.Logo{
+    padding-left: 20px;
+    padding-top: 15px;
+    float: left;
+}
+.text-center-fluid{
+    font-weight: bold;
+    color: black;
+    padding-top: 30px;
+    font-size: 27px;
+    padding-left: 140px;
+}
+.JNVFrnt{
+    height: 300px;
+    width: 966px;
+    padding-left: 20px;
+}
+.my-row{
+    background: white;
+    border:0px solid gray;
+    
+}
+.my-col{
+    border: 0px solid gray;
+}
+.font{
+    color: black;
+}
+.Description1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.Heading1{
+    font-weight: bold;
+    color: brown;
+}
+.sectionB{
+    background: white;
+    border: 0px solid black;
+}
+.sectionC{
+    background:#F8F0E1;
+    height:100px;
+}
+.navbarcustom{
+    background: #CACACA;
+}
+
+.LI a:hover{
+ background: brown;
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+}
+
+.jumbotron{
+    background: wheat;
+    margin-bottom: 0px;
+    
+}
+.display-4{
+    color: black;
+}
+.my-4{
+    color: black;
+}

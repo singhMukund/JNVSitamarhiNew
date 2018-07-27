@@ -1,0 +1,46 @@
+*{
+    //background: wheat;
+}
+header{
+    padding-top: 0px;
+}
+.my-row{
+    background: white;
+    border:0px solid gray;
+    
+}
+.my-col{
+    border: 0px solid gray;
+}
+.font{
+    color: black;
+}
+.Description1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.Heading1{
+    font-weight: bold;
+    color: brown;
+    border-bottom: 2px solid brown;
+}
+.Heading2{
+    border-bottom: 2px solid brown;
+    font-weight: bold;
+    color: brown;
+}
+.sectionB{
+    border: 0px solid black;
+    margin-bottom: 10px;
+}
+.navbarcustom{
+    background: #CACACA;
+}
+
+.LI a:hover{
+ background: brown;
+ 
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+}
